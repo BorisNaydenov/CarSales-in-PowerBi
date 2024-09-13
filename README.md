@@ -9,6 +9,7 @@ About Business:
 _From a management point of view:_
 It is important to have a quick overview of the results.   
 This report gives a clear overview of sales by customer, country, car brands and costs.  
+You need to have a properly balanced balanced scorecard. (I am working on newer dashboards that will actually focus more on that)
 
   
 _From a data analyst's point of view:_  Insights or recommendations can be highlighted further.    
