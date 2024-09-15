@@ -9,18 +9,20 @@ About Business:
 _From a management point of view:_
 It is important to have a quick overview of the results.   
 This report gives a clear overview of sales by customer, country, car brands and costs.  
-You need to have a properly balanced balanced scorecard.(I am working on newer dashboards that will actually focus more on that)
+It focuses on sales trends, weak spots as well as A-spots.
+
+To make the right decisions, a properly balanced balanced scorecard is needed.  
+(I am working on dashboards that will focus more on that)
 
   
-_From a data analyst's point of view:_  Insights or recommendations can be highlighted further.    
+_From a data analyst's point of view:_    **Communication is key.**  
+Insights or recommendations should be highlighted and target audience should be always in mind.    
 
   
-**Communication is key.**  
-
-Data teams do not make goals or strategies alone. And it is often up to management to make decisions.  
+ 
 
 Data teams should ensure data integrity and follow principles of data ethics.   
-Data is a key to ensuring enhanced decision-making.  
+Data is a key for enhanced decision-making.  
 
 A manager should wear their white data-hat responsibly and ensure wearing all other hats too.   
 See what I am talking about and go through these decision frameworks yourself: 
