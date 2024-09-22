@@ -4,6 +4,8 @@ You can view my Dashboard and the dataset is in the repository.
 The tasks I performed in general are: Data pre-processing (cleansing, transformation) → Loading data into PowerBI →   
 Creating data model (i.e. connecting tables)  → Preparing separate visualisations, adding new fields/parameters/columns. 
 
+![My Image](https://github.com/BorisNaydenov/CarSales-in-PowerBi/blob/main/Sales%20Trend.png)
+  
 About Business:  
 
 _From a management point of view:_
